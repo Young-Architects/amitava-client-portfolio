@@ -66,7 +66,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati cum beatae veritatis voluptatem illo autem dolor, repellat blanditiis quisquam dicta sit consequatur, impedit quasi soluta in ducimus atque eaque cupiditate.
+          Here are some of my top career achievements and some certificates that highlight my expertise as a Trainer and Developer.
         </motion.p>
       </div>
 

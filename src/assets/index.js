@@ -34,8 +34,16 @@ import ibmacc from "./company/ibmacc.png";
 import pentasoft from "./company/pentasoft.png";
 
 import HMS from "./HMS.png"
-import todo from "./todo.png"
+import todo from "./todo.jpg"
 import tindog from "./tindog.jpg"
+
+import cognizant from "./certificates/cognizant.jpg";
+import sunbd from "./certificates/sunbd.jpg";
+import sunjava from "./certificates/sunjava.jpg";
+import sunweb from "./certificates/sunweb.jpg";
+import peerless from "./certificates/peerless.jpg";
+import coal from "./certificates/coal.jpg";
+
 
 export {
   logo,
@@ -72,5 +80,11 @@ export {
   pentasoft,
   HMS,
   todo,
-  tindog
+  tindog,
+  cognizant,
+  sunbd,
+  sunjava,
+  sunweb,
+  peerless,
+  coal
 };

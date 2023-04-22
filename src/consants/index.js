@@ -28,7 +28,13 @@ import {
     pentasoft,
     HMS,
     todo,
-    tindog
+    tindog,
+    cognizant,
+    sunbd,
+    sunjava,
+    sunweb,
+    peerless,
+    coal
   } from "../assets";
   
   export const navLinks = [
@@ -275,85 +281,85 @@ import {
       source_code_link: "https://github.com/GFG-Hackathon/E-Hospital-Management-System",
     },
     {
-      name: "To-Do List",
+      name: "Book-Shopping App",
       description:
-        "This is a To-Do List made using NodeJS and ExpressJs and MongoDB as a database that performs CRUD operations in the list. It also has custom API routes, meaning you can create a custom list by just adding the custom url.",
+        "Online Book Shopping App that enables users to browse a wide variety of books and shop online according to their taste.",
       tags: [
         {
-          name: "NodeJS",
+          name: "Spring Boot",
           color: "blue-text-gradient",
         },
         {
-          name: "ExpressJS",
+          name: "ReactJS",
           color: "green-text-gradient",
         },
         {
-          name: "MongoDB",
+          name: "MySQL",
           color: "pink-text-gradient",
         },
       ],
       image: todo,
-      source_code_link: "https://github.com/mriganka56/To-Do-List-db",
+      source_code_link: "https://github.com/cloudsony999/BookShoppingApp_ARPAN_SUPRATIM",
     },
     {
-      name: "TinDog",
+      name: "Full-Stack Employee Management System",
       description:
-        "A fun webiste, fully mobile responsive website made using HTML, CSS & Bootstrap. Tindog means tinder for dog, and I created this project to learn more about mobile responsiveness.",
+        "Full-Stack Employee Management System made using Java-Spring Boot and Angular",
       tags: [
         {
-          name: "HTML",
+          name: "Java",
           color: "blue-text-gradient",
         },
         {
-          name: "CSS",
+          name: "Spring Boot",
           color: "green-text-gradient",
         },
         {
-          name: "BootStrap",
+          name: "Angular",
           color: "pink-text-gradient",  
         },
       ],
       image: tindog,
-      source_code_link: "https://github.com/mriganka56/TinDog",
+      source_code_link: "https://github.com/cloudsony999/EmployeeManagement",
     },
   ];
 
   const Certificate=[
     {
-      name: "IEM",
+      name: "Cognizant",
       description:
-        "A fun webiste, fully mobile responsive website made using HTML, CSS & Bootstrap. Tindog means tinder for dog, and I created this project to learn more about mobile responsiveness.",
-      image: tindog,
+        "Awarded as the Best Trainer of 2011",
+      image: cognizant,
     },
     {
-      name: "IEM",
+      name: "Sun Certification",
       description:
-        "A fun webiste, fully mobile responsive website made using HTML, CSS & Bootstrap. Tindog means tinder for dog, and I created this project to learn more about mobile responsiveness.",
-      image: tindog,
+        "Has successfully Sun Certification as a Business Component Developer",
+      image: sunbd,
     },
     {
-      name: "IEM",
+      name: "Sun Certification",
       description:
-        "A fun webiste, fully mobile responsive website made using HTML, CSS & Bootstrap. Tindog means tinder for dog, and I created this project to learn more about mobile responsiveness.",
-      image: tindog,
+        "Has successfully Sun Certification as a Programmer",
+      image: sunjava,
     },
     {
-      name: "IEM",
+      name: "Sun Certification",
       description:
-        "A fun webiste, fully mobile responsive website made using HTML, CSS & Bootstrap. Tindog means tinder for dog, and I created this project to learn more about mobile responsiveness.",
-      image: tindog,
+        "Has successfully Sun Certification as a Web Component Developer",
+      image: sunweb,
     },
     {
-      name: "IEM",
+      name: "Peerless Group",
       description:
-        "A fun webiste, fully mobile responsive website made using HTML, CSS & Bootstrap. Tindog means tinder for dog, and I created this project to learn more about mobile responsiveness.",
-      image: tindog,
+        "An Excellent Corporate Trainer Award from The Peerless Group",
+      image: peerless,
     },
     {
-      name: "IEM",
+      name: "Indian Institute of Coal Management",
       description:
-        "A fun webiste, fully mobile responsive website made using HTML, CSS & Bootstrap. Tindog means tinder for dog, and I created this project to learn more about mobile responsiveness.",
-      image: tindog,
+        "An Interactive Trainer who has instilled great knowledge among the trainees.",
+      image: coal,
     },
   ];
 
