@@ -223,7 +223,7 @@ import {
       company_name: "PentaSoft Technology Limited",
       icon: pentasoft,
       iconBg: "#E6DEDD",
-      date: "2006 - 2011",
+      date: "2006 - 2001",
       points: [
         "Conducting the classes on the following courses for the general students: Oracle 8i, Java, Active Server Pages with Interdev, Hyper Text Mark Up Language, Advanced Diploma in Web & e-Commerce Technology",
         "Overall Co-ordination of all the training programs",
