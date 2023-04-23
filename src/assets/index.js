@@ -34,7 +34,7 @@ import ibmacc from "./company/ibmacc.png";
 import pentasoft from "./company/pentasoft.png";
 
 import HMS from "./HMS.png"
-import todo from "./todo.jpg"
+import todo from "./todo.png"
 import tindog from "./tindog.jpg"
 
 import cognizant from "./certificates/cognizant.jpg";
