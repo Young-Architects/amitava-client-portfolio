@@ -2,7 +2,7 @@ import {BrowserRouter} from 'react-router-dom';
 import { About, Contact, Experience, Feedbacks, 
   Hero, Navbar, Tech, Works, StarsCanvas } from './components';
 import Certificates from './components/Certificates';
-//import Footer from './components/footer';
+import Footer from './components/Footer';
 
 const App=() => {
   return (
@@ -22,7 +22,7 @@ const App=() => {
         <Contact/>
         <StarsCanvas/>
       </div>
-      {/* <Footer/> */}
+      <Footer/>
     </div>
     </BrowserRouter>
   )
