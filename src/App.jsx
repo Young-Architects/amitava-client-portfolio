@@ -2,7 +2,7 @@ import {BrowserRouter} from 'react-router-dom';
 import { About, Contact, Experience, Feedbacks, 
   Hero, Navbar, Tech, Works, StarsCanvas } from './components';
 import Certificates from './components/Certificates';
-import Footer from './components/footer';
+//import Footer from './components/footer';
 
 const App=() => {
   return (
